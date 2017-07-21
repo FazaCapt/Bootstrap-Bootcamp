@@ -7,4 +7,5 @@
 5. salvatore: http://salvattore.com/
 6. masonry: https://masonry.desandro.com/
 7. Q&A: https://www.udemy.com/the-web-developer-bootcamp/learn/v4/questions/1989586
-8. 
+8. Font Awesome: http://fontawesome.io/
+9. Bootstrap cdn font awesome: https://www.bootstrapcdn.com/fontawesome/
